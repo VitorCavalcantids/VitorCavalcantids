@@ -6,3 +6,5 @@ Olá! 👋 Sou o Vitor Cavalcanti, um estudante de programação apaixonado por 
 
 📫 Você pode me encontrar aqui no GitHub, onde compartilho meus projetos pessoais e contribuições para projetos de código aberto. Sinta-se à vontade para explorar meu trabalho e entrar em contato comigo para discussões ou oportunidades de colaboração!
 
+www.linkedin.com/in/vitorcavalcantids
+
